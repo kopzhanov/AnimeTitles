@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Boku dake ga Inai Machi",
+        "englishTitle": "ERASED",
+        "episodes": 12,
+        "score": 8.31,
+        "genres": "Mystery, Supernatural",
+        "picture": "https://cdn.myanimelist.net/images/anime/10/77957.jpg"
+    },
+    {
+        "title": "Cyberpunk: Edgerunners",
+        "englishTitle": "Cyberpunk: Edgerunners",
+        "episodes": 10,
+        "score": 8.61,
+        "genres": "Action, Sci-Fi",
+        "picture": "https://cdn.myanimelist.net/images/anime/1129/135442.jpg"
+    },
+    {
+        "title": "Jujutsu Kaisen",
+        "englishTitle": "Sorcery Fight",
+        "episodes": 24,
+        "score": 8.64,
+        "genres": "Action, Fantasy",
+        "picture": "https://cdn.myanimelist.net/images/anime/1568/128066.jpg"
+    },
+    {
+        "title": "Kimetsu no Yaiba",
+        "englishTitle": "Demon Slayer",
+        "episodes": 26,
+        "score": 8.50,
+        "genres": "Action, Fantasy",
+        "picture": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg"
+    },
+    {
+        "title": "Naruto: Shippuuden",
+        "englishTitle": "Naruto: Hurricane Chronicles",
+        "episodes": 500,
+        "score": 8.26,
+        "genres": "Action, Adventure, Fantasy",
+        "picture": "https://cdn.myanimelist.net/images/anime/5/17407.jpg"
+    },
+    {
+        "title": "Shingeki no Kyojin",
+        "englishTitle": "Attack on Titan",
+        "episodes": 25,
+        "score": 8.54,
+        "genres": "Action, Drama",
+        "picture": "https://cdn.myanimelist.net/images/anime/10/47347.jpg"
+    }
+]
